@@ -1,0 +1,317 @@
+{
+  "cookies": [
+    {
+      "name": "SESSAFFI",
+      "value": "PBC5YS:2677605566",
+      "domain": ".uat.mypost.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS0134935f",
+      "value": "01d31a4ac1a940f7cacafa79044fd271a9a1cd7b04043e21221452ccdef1c9a2a824c1e07ba9d83f5dae51c6ee70b15d89aee5a57a",
+      "domain": "uat.mypost.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS01b00b38",
+      "value": "01d31a4ac1a940f7cacafa79044fd271a9a1cd7b04043e21221452ccdef1c9a2a824c1e07ba9d83f5dae51c6ee70b15d89aee5a57a",
+      "domain": ".uat.mypost.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "treafik_sticky_session_cookie",
+      "value": "e2ef359a780e5eae",
+      "domain": "uat.post.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "4DCC71A948DED1EFECB24112FDC5BC5B",
+      "domain": "uat.post.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SESSAFFI_postlu",
+      "value": "PBC5YS:1850472780",
+      "domain": ".uat.post.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS01b9df47",
+      "value": "01d31a4ac17f0795a03e737e77ea48ec0bf0064228ae963960db5fdcda224a0af3132c35327f96e4732ad159f2eecc3c585d05f734",
+      "domain": "uat.post.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS01891d99",
+      "value": "01d31a4ac17f0795a03e737e77ea48ec0bf0064228ae963960db5fdcda224a0af3132c35327f96e4732ad159f2eecc3c585d05f734",
+      "domain": ".post.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS014fa0c4",
+      "value": "01d31a4ac17f0795a03e737e77ea48ec0bf0064228ae963960db5fdcda224a0af3132c35327f96e4732ad159f2eecc3c585d05f734",
+      "domain": ".uat.post.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rxVisitor",
+      "value": "1750249330223UGNF2JF84P7KHS9AA29IKV8TN0HKEHUG",
+      "domain": ".post.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GUEST_LANGUAGE_ID",
+      "value": "fr_FR",
+      "domain": "uat.post.lu",
+      "path": "/",
+      "expires": 1750335730,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dtCookie",
+      "value": "v_4_srv_3_sn_BDA2008663E0E5A660C5DD558A0514B8_perc_100000_ol_0_mul_1_app-3A00597abfe65cd361_1",
+      "domain": ".post.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LFR_SESSION_STATE_20106",
+      "value": "1750249330776",
+      "domain": "uat.post.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rxvt",
+      "value": "1750251130931|1750249330225",
+      "domain": ".post.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dtPC",
+      "value": "3$49330222_904h-vLWEHJPTPTRCPUCHFSKKTHFVFHUKRWGBA-0e0",
+      "domain": ".post.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dtSa",
+      "value": "true%7CC%7C-1%7CJe%20me%20connecte%7C-%7C1750249331048%7C49330222_904%7Chttps%3A%2F%2Fuat.post.lu%2Ffr%2Fparticuliers%2Fmobile%2Fmypost%3FTAM_5FOP%3Dlogin%26METHOD%3DGET%26URL%3Dhttps_253A_252F_252Fuat.mypost.lu_252Fmyaccount-web_252Fdashboard%26AUTHNLEVEL%3D%7C%7C%7C%7C",
+      "domain": ".post.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "0000V2TIRSKIWygTWW85mCB92qm:fd7248dd-a9e0-47da-ae3a-072e17f31950",
+      "domain": "uat.mypost.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PD_STATEFUL_976b9ba2-0635-11f0-a462-005056b372a2",
+      "value": "%2Fmga",
+      "domain": "uat.mypost.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SESSAFFI_login.luxid.lu",
+      "value": "PBC5YS:2677605634",
+      "domain": ".login-uat.luxid.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TS019c18fd",
+      "value": "01d31a4ac1ce29e92e87b7d3d56cee8dcf8247a12c6901c784a6f73ed15df591a5be7337232e4782238b4a53c3f1b584c5064a8361",
+      "domain": "login-uat.luxid.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS0134d833",
+      "value": "01d31a4ac1ce29e92e87b7d3d56cee8dcf8247a12c6901c784a6f73ed15df591a5be7337232e4782238b4a53c3f1b584c5064a8361",
+      "domain": ".login-uat.luxid.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LANGUAGE",
+      "value": "en",
+      "domain": ".luxid.lu",
+      "path": "/",
+      "expires": 1784809334.583796,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "0000qOoPT3cwagFWZbBsNWvJimB:5d2e16f0-acf0-434a-bd22-795a1a1a698e",
+      "domain": "login-uat.luxid.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PD_STATEFUL_785c99ae-9075-11ef-b7e9-005056b372a2",
+      "value": "%2Fmga",
+      "domain": "login-uat.luxid.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PD-S-UAT-SESSION-ID",
+      "value": "1_HhrzDMKG7O5+8R3oiseskgYfkPXU8p1IsdDPoaIhqlxqI1X+jsE=_AAAAAQA=_TtEpvg8xTJqxYwRVmEqwIm+VP/U=",
+      "domain": "login-uat.luxid.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PD-S-UAT-SESSION-ID",
+      "value": "1_Z3Keh0dlH+lmeMdro+xA9CN56I68ByLzqvTyiKxNW6HGLJTIf14=_AAAAAAA=_3gvLa5YcfZouBAG+WgYntADcQEE=",
+      "domain": "uat.mypost.lu",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2025-06-18T12:22:24.604Z",
+      "domain": "uat.mypost.lu",
+      "path": "/",
+      "expires": 1781785344,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isIABGlobal=false&datestamp=Wed+Jun+18+2025+14%3A22%3A24+GMT%2B0200+(Central+European+Summer+Time)&version=202208.1.0&hosts=&consentId=312142e8-b109-4ac9-a871-560d72cdc2ff&interactionCount=1&landingPath=NotLandingPage&groups=1%3A1%2C2%3A1",
+      "domain": "uat.mypost.lu",
+      "path": "/",
+      "expires": 1781785344,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isIABGlobal=false&datestamp=Wed+Jun+18+2025+14%3A22%3A29+GMT%2B0200+(Central+European+Summer+Time)&version=202208.1.0&hosts=&consentId=312142e8-b109-4ac9-a871-560d72cdc2ff&interactionCount=1&landingPath=NotLandingPage&groups=1%3A1%2C2%3A1",
+      "domain": ".uat.mypost.lu",
+      "path": "/",
+      "expires": 1781785349,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://uat.mypost.lu",
+      "localStorage": [
+        {
+          "name": "ngStorage-menuOpen",
+          "value": "false"
+        },
+        {
+          "name": "lastEvent",
+          "value": "{\"type\":\"CONSULTATION\",\"actionId\":\"001\",\"registeredTime\":1750249349350}"
+        },
+        {
+          "name": "ngStorage-packupImportSelectedAddressCountry",
+          "value": "\"France\""
+        },
+        {
+          "name": "NG_TRANSLATE_LANG_KEY",
+          "value": "fr"
+        }
+      ]
+    }
+  ]
+}
